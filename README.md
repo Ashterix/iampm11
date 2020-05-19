@@ -1,3 +1,3 @@
 # iampm11
-## first subtitle
+## First subtitle
 Test repo for iampm11
